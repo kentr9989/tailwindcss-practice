@@ -1,2 +1,2 @@
 # tailwindcss-demo
-Build a simple frontend using TailwindCss
+Build a simple frontend using TailwindCSS
